@@ -32,6 +32,6 @@
 使用清晰结构，逻辑分段，提升爬虫可读性；
 
 满足用户3大搜索意图：免费看、内容丰富、播放不卡。
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/tnnn2611/100000000 ）</span>
 
 
